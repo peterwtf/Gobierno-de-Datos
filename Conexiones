@@ -1,0 +1,46 @@
+
+
+Cloud Object Storage
+
+Nombre: Cloud Object Storage
+Descripción: IBM Cloud Object Storage bucket that contains data files used for analytics and AI.
+Bucket: cpd-outcomes
+Login URL: https://s3.us-south.cloud-object-storage.appdomain.cloud
+Resource instance ID: crn:v1:bluemix:public:cloud-object-storage:global:a/feb0a088323a45db90b8dd694b314c53:88ee55e3-fc61-46a9-9ccd-e81593585ba6::
+API key: _-W6DMVd3cQV7YrWIdmExhX29ApoDIBAu4y0C07dCMPB
+Access key: bd3d4829929a41ac8a2e8e7ab58e5cdb
+Secret key: 6f3fafc225b2c8527f22d13e2c67034f4da989dc08adffac
+
+
+
+
+Data Warehouse (IBM Db2 Warehouse)
+
+Nombre: Data Warehouse
+Descripción: Database that contains enterprise data needed by the business for analytics and AI.
+Base de datos: BLUDB
+Hostname or IP address: db2w-ovqfeqq.us-south.db2w.cloud.ibm.com
+Puerto: 50001
+Username: cpdemo
+Password: C!oudP@k4DataDem0s
+
+
+
+
+
+
+
+
+
+Third Party Data (Third Party Data)
+
+Nombre: Third Party Data
+Descripción: Database that contains third party data needed by the business for analytics and AI.
+Base de datos: 3RDPARTY
+Hostname or IP address: 85331fa6-6b56-4355-935e-290f3ac8aa8c.8117147f814b4b2ea643610826cd2046.databases.appdomain.cloud
+Puerto: 31128
+Username: cpdemo
+Password: C!oudP@k4DataDem0s
+
+
+
