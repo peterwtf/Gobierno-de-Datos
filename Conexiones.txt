@@ -27,20 +27,3 @@ Password: C!oudP@k4DataDem0s
 
 
 
-
-
-
-
-
-Third Party Data (Third Party Data)
-
-Nombre: Third Party Data
-Descripción: Database that contains third party data needed by the business for analytics and AI.
-Base de datos: 3RDPARTY
-Hostname or IP address: 85331fa6-6b56-4355-935e-290f3ac8aa8c.8117147f814b4b2ea643610826cd2046.databases.appdomain.cloud
-Puerto: 31128
-Username: cpdemo
-Password: C!oudP@k4DataDem0s
-
-
-
